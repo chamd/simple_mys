@@ -1,5 +1,5 @@
 # simple_mys
-######Simple Mi-yeon-si Maker
+Simple Mi-yeon-si Maker
 
 
 # 템플릿 사용법
